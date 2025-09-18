@@ -25,9 +25,5 @@ This project is designed for **SOC Analysts, Incident Responders, and Security E
 
 ---
 
-## 📦 Quickstart
 
-### 1. Clone Repository
-```bash
-git clone https://github.com/YOUR-USERNAME/phishing-email-analysis-toolkit.git
-cd phishing-email-analysis-toolkit
+
